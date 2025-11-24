@@ -1,0 +1,101 @@
+Branch,Product line,Quantity,Unit price,Gender,Customer type,Payment,Tax 5%,Hour,Day,City,Rating,cogs,Minute,gross income,Year,Month
+B,Sports and travel,5,489.55,Female,Member,Credit card,9.56,15,19,Naypyitaw,2.72,4138.06,32,3188.62,2022,9
+C,Sports and travel,5,489.55,Male,Member,Credit card,9.56,12,10,Naypyitaw,2.72,4138.06,5,3188.62,2022,9
+B,Health and beauty,1,489.55,Female,Normal,Ewallet,9.56,6,22,Mandalay,2.72,4138.06,11,3188.62,2023,5
+C,Home and lifestyle,8,489.55,Female,Member,Credit card,9.56,23,18,Yangon,2.72,4138.06,37,3188.62,2022,6
+C,Health and beauty,5,489.55,Female,Member,Credit card,9.56,3,22,Mandalay,2.72,4138.06,49,3188.62,2022,12
+C,Electronic accessories,5,489.55,Male,Member,Cash,9.56,12,16,Mandalay,2.72,4138.06,21,3188.62,2024,9
+B,Sports and travel,8,489.55,Female,Normal,Cash,9.56,12,10,Yangon,2.72,4138.06,12,3188.62,2024,12
+B,Home and lifestyle,6,489.55,Male,Member,Cash,9.56,1,22,Naypyitaw,2.72,4138.06,8,3188.62,2023,11
+A,Food,5,489.55,Male,Member,Ewallet,9.56,6,11,Yangon,2.72,4138.06,6,3188.62,2023,6
+A,Fashion accessories,4,489.55,Female,Normal,Ewallet,9.56,21,3,Mandalay,2.72,4138.06,27,3188.62,2024,2
+B,Food,7,489.55,Male,Member,Credit card,9.56,9,7,Naypyitaw,2.72,4138.06,8,3188.62,2022,4
+A,Sports and travel,6,489.55,Male,Member,Ewallet,9.56,18,15,Naypyitaw,2.72,4138.06,32,3188.62,2022,6
+A,Health and beauty,2,489.55,Male,Normal,Ewallet,9.56,20,18,Mandalay,2.72,4138.06,12,3188.62,2023,11
+C,Electronic accessories,1,489.55,Male,Normal,Ewallet,9.56,11,24,Naypyitaw,2.72,4138.06,21,3188.62,2022,2
+A,Food,4,489.55,Female,Member,Ewallet,9.56,7,7,Mandalay,2.72,4138.06,29,3188.62,2024,5
+A,Home and lifestyle,5,489.55,Male,Normal,Credit card,9.56,6,9,Mandalay,2.72,4138.06,5,3188.62,2023,4
+B,Fashion accessories,9,489.55,Male,Member,Credit card,9.56,1,18,Yangon,2.72,4138.06,52,3188.62,2023,6
+C,Fashion accessories,6,489.55,Female,Member,Cash,9.56,4,9,Yangon,2.72,4138.06,22,3188.62,2023,8
+B,Sports and travel,6,489.55,Male,Member,Credit card,9.56,10,1,Mandalay,2.72,4138.06,16,3188.62,2022,10
+A,Home and lifestyle,6,489.55,Female,Normal,Credit card,9.56,9,28,Yangon,2.72,4138.06,30,3188.62,2022,2
+C,Electronic accessories,5,489.55,Female,Member,Cash,9.56,4,3,Yangon,2.72,4138.06,20,3188.62,2023,5
+B,Health and beauty,7,489.55,Male,Normal,Cash,9.56,4,6,Naypyitaw,2.72,4138.06,5,3188.62,2023,3
+A,Health and beauty,6,489.55,Male,Member,Credit card,9.56,10,7,Yangon,2.72,4138.06,16,3188.62,2022,11
+C,Fashion accessories,9,489.55,Female,Member,Credit card,9.56,3,23,Mandalay,2.72,4138.06,55,3188.62,2023,8
+B,Sports and travel,9,489.55,Female,Member,Cash,9.56,5,3,Mandalay,2.72,4138.06,33,3188.62,2023,5
+B,Fashion accessories,4,489.55,Male,Member,Ewallet,9.56,4,27,Yangon,2.72,4138.06,47,3188.62,2022,9
+A,Fashion accessories,9,489.55,Male,Member,Ewallet,9.56,2,13,Naypyitaw,2.72,4138.06,38,3188.62,2023,9
+C,Home and lifestyle,7,489.55,Male,Member,Ewallet,9.56,7,4,Yangon,2.72,4138.06,46,3188.62,2022,10
+B,Home and lifestyle,6,489.55,Male,Member,Credit card,9.56,8,27,Mandalay,2.72,4138.06,58,3188.62,2024,5
+A,Fashion accessories,3,489.55,Male,Member,Cash,9.56,21,5,Naypyitaw,2.72,4138.06,20,3188.62,2023,1
+A,Home and lifestyle,5,489.55,Male,Member,Cash,9.56,12,3,Naypyitaw,2.72,4138.06,44,3188.62,2022,5
+A,Health and beauty,7,489.55,Male,Member,Credit card,9.56,22,17,Yangon,2.72,4138.06,7,3188.62,2022,4
+B,Food,4,489.55,Male,Member,Cash,9.56,13,21,Naypyitaw,2.72,4138.06,42,3188.62,2023,9
+B,Home and lifestyle,8,489.55,Female,Member,Credit card,9.56,21,21,Mandalay,2.72,4138.06,16,3188.62,2024,3
+B,Fashion accessories,2,489.55,Female,Normal,Credit card,9.56,20,27,Naypyitaw,2.72,4138.06,49,3188.62,2022,5
+A,Health and beauty,3,489.55,Male,Normal,Credit card,9.56,22,23,Yangon,2.72,4138.06,42,3188.62,2024,7
+A,Home and lifestyle,3,489.55,Female,Normal,Ewallet,9.56,12,19,Mandalay,2.72,4138.06,59,3188.62,2023,2
+B,Electronic accessories,8,489.55,Male,Normal,Cash,9.56,11,8,Yangon,2.72,4138.06,49,3188.62,2023,3
+C,Home and lifestyle,1,489.55,Male,Normal,Cash,9.56,20,3,Naypyitaw,2.72,4138.06,25,3188.62,2024,11
+C,Electronic accessories,8,489.55,Male,Normal,Credit card,9.56,14,1,Mandalay,2.72,4138.06,3,3188.62,2024,5
+C,Fashion accessories,1,489.55,Male,Member,Credit card,9.56,6,7,Naypyitaw,2.72,4138.06,41,3188.62,2022,5
+C,Health and beauty,4,489.55,Male,Normal,Credit card,9.56,10,28,Mandalay,2.72,4138.06,12,3188.62,2023,6
+B,Electronic accessories,4,489.55,Female,Member,Cash,9.56,20,17,Yangon,2.72,4138.06,23,3188.62,2023,8
+C,Fashion accessories,9,489.55,Male,Normal,Credit card,9.56,21,5,Mandalay,2.72,4138.06,50,3188.62,2022,2
+A,Electronic accessories,9,489.55,Male,Normal,Credit card,9.56,2,12,Mandalay,2.72,4138.06,15,3188.62,2022,5
+C,Health and beauty,7,489.55,Male,Normal,Credit card,9.56,2,13,Yangon,2.72,4138.06,47,3188.62,2023,5
+B,Food,4,489.55,Female,Normal,Ewallet,9.56,4,9,Yangon,2.72,4138.06,57,3188.62,2022,9
+A,Health and beauty,4,489.55,Male,Member,Ewallet,9.56,12,3,Yangon,2.72,4138.06,50,3188.62,2024,12
+C,Electronic accessories,4,489.55,Male,Member,Ewallet,9.56,11,7,Naypyitaw,2.72,4138.06,1,3188.62,2024,9
+C,Home and lifestyle,9,489.55,Female,Normal,Cash,9.56,2,8,Yangon,2.72,4138.06,13,3188.62,2022,3
+A,Home and lifestyle,9,489.55,Female,Normal,Credit card,9.56,17,19,Naypyitaw,2.72,4138.06,19,3188.62,2022,12
+A,Home and lifestyle,5,489.55,Male,Member,Credit card,9.56,12,4,Yangon,2.72,4138.06,49,3188.62,2023,11
+A,Home and lifestyle,1,489.55,Male,Member,Ewallet,9.56,1,20,Yangon,2.72,4138.06,37,3188.62,2023,12
+B,Food,6,489.55,Male,Member,Cash,9.56,17,8,Naypyitaw,2.72,4138.06,4,3188.62,2023,4
+A,Electronic accessories,7,489.55,Male,Member,Cash,9.56,23,25,Yangon,2.72,4138.06,34,3188.62,2022,7
+C,Home and lifestyle,8,489.55,Female,Member,Ewallet,9.56,15,3,Mandalay,2.72,4138.06,55,3188.62,2023,1
+B,Home and lifestyle,2,489.55,Male,Member,Credit card,9.56,23,8,Mandalay,2.72,4138.06,43,3188.62,2022,4
+B,Food,9,489.55,Male,Member,Ewallet,9.56,16,25,Yangon,2.72,4138.06,34,3188.62,2023,6
+B,Electronic accessories,6,489.55,Female,Member,Cash,9.56,2,21,Mandalay,2.72,4138.06,4,3188.62,2023,9
+A,Home and lifestyle,5,489.55,Female,Normal,Credit card,9.56,2,25,Mandalay,2.72,4138.06,58,3188.62,2024,7
+B,Food,7,489.55,Female,Member,Ewallet,9.56,15,25,Naypyitaw,2.72,4138.06,24,3188.62,2023,6
+B,Food,9,489.55,Female,Member,Ewallet,9.56,18,7,Naypyitaw,2.72,4138.06,5,3188.62,2024,5
+A,Health and beauty,7,489.55,Female,Member,Cash,9.56,20,5,Mandalay,2.72,4138.06,25,3188.62,2022,12
+B,Health and beauty,9,489.55,Male,Member,Ewallet,9.56,4,16,Mandalay,2.72,4138.06,29,3188.62,2022,9
+C,Sports and travel,4,489.55,Female,Normal,Credit card,9.56,6,17,Mandalay,2.72,4138.06,5,3188.62,2022,1
+A,Fashion accessories,9,489.55,Male,Normal,Ewallet,9.56,10,29,Mandalay,2.72,4138.06,54,3188.62,2024,3
+B,Home and lifestyle,6,489.55,Female,Member,Ewallet,9.56,5,4,Mandalay,2.72,4138.06,33,3188.62,2024,5
+C,Food,4,489.55,Female,Normal,Ewallet,9.56,5,1,Mandalay,2.72,4138.06,22,3188.62,2023,3
+B,Health and beauty,2,489.55,Male,Normal,Credit card,9.56,20,4,Yangon,2.72,4138.06,9,3188.62,2023,5
+C,Electronic accessories,3,489.55,Female,Normal,Ewallet,9.56,22,27,Naypyitaw,2.72,4138.06,20,3188.62,2023,4
+B,Fashion accessories,9,489.55,Female,Normal,Credit card,9.56,3,28,Mandalay,2.72,4138.06,27,3188.62,2024,5
+B,Electronic accessories,8,489.55,Male,Member,Cash,9.56,1,19,Naypyitaw,2.72,4138.06,3,3188.62,2024,4
+B,Electronic accessories,7,489.55,Female,Normal,Ewallet,9.56,0,10,Naypyitaw,2.72,4138.06,21,3188.62,2024,8
+B,Electronic accessories,3,489.55,Male,Member,Credit card,9.56,0,2,Naypyitaw,2.72,4138.06,44,3188.62,2022,10
+B,Electronic accessories,9,489.55,Male,Member,Ewallet,9.56,16,5,Mandalay,2.72,4138.06,6,3188.62,2022,6
+A,Sports and travel,1,489.55,Female,Normal,Ewallet,9.56,8,13,Yangon,2.72,4138.06,23,3188.62,2022,3
+A,Fashion accessories,8,489.55,Female,Normal,Cash,9.56,2,1,Yangon,2.72,4138.06,57,3188.62,2023,9
+A,Food,6,489.55,Female,Member,Credit card,9.56,16,16,Yangon,2.72,4138.06,43,3188.62,2024,5
+B,Electronic accessories,7,489.55,Male,Member,Cash,9.56,16,12,Mandalay,2.72,4138.06,19,3188.62,2023,1
+A,Fashion accessories,4,489.55,Female,Member,Ewallet,9.56,0,27,Naypyitaw,2.72,4138.06,46,3188.62,2024,12
+A,Electronic accessories,4,489.55,Female,Normal,Ewallet,9.56,8,7,Yangon,2.72,4138.06,36,3188.62,2023,2
+C,Sports and travel,7,489.55,Female,Normal,Cash,9.56,4,6,Mandalay,2.72,4138.06,17,3188.62,2024,10
+B,Fashion accessories,2,489.55,Female,Member,Credit card,9.56,9,6,Mandalay,2.72,4138.06,54,3188.62,2022,9
+C,Home and lifestyle,1,489.55,Male,Normal,Cash,9.56,10,19,Yangon,2.72,4138.06,19,3188.62,2022,12
+B,Health and beauty,4,489.55,Female,Member,Credit card,9.56,11,12,Naypyitaw,2.72,4138.06,30,3188.62,2023,2
+A,Food,7,489.55,Male,Normal,Ewallet,9.56,9,13,Yangon,2.72,4138.06,56,3188.62,2024,7
+A,Health and beauty,4,489.55,Male,Normal,Ewallet,9.56,18,14,Naypyitaw,2.72,4138.06,37,3188.62,2023,12
+C,Home and lifestyle,5,489.55,Male,Member,Cash,9.56,14,26,Yangon,2.72,4138.06,24,3188.62,2023,9
+C,Electronic accessories,3,489.55,Male,Normal,Credit card,9.56,4,9,Mandalay,2.72,4138.06,22,3188.62,2023,4
+B,Home and lifestyle,8,489.55,Female,Normal,Ewallet,9.56,9,5,Naypyitaw,2.72,4138.06,46,3188.62,2024,7
+C,Sports and travel,8,489.55,Female,Member,Credit card,9.56,19,29,Mandalay,2.72,4138.06,0,3188.62,2022,3
+B,Electronic accessories,5,489.55,Male,Member,Cash,9.56,11,1,Naypyitaw,2.72,4138.06,4,3188.62,2023,7
+C,Health and beauty,6,489.55,Male,Normal,Ewallet,9.56,4,12,Mandalay,2.72,4138.06,29,3188.62,2023,10
+C,Electronic accessories,6,489.55,Female,Normal,Cash,9.56,11,6,Naypyitaw,2.72,4138.06,23,3188.62,2024,3
+A,Food,8,489.55,Male,Normal,Ewallet,9.56,7,29,Naypyitaw,2.72,4138.06,57,3188.62,2023,2
+C,Health and beauty,8,489.55,Female,Normal,Ewallet,9.56,15,4,Yangon,2.72,4138.06,16,3188.62,2022,11
+B,Health and beauty,3,489.55,Female,Member,Cash,9.56,18,11,Mandalay,2.72,4138.06,31,3188.62,2022,12
+B,Home and lifestyle,4,489.55,Female,Normal,Credit card,9.56,4,27,Naypyitaw,2.72,4138.06,14,3188.62,2022,6
+C,Home and lifestyle,3,489.55,Male,Member,Ewallet,9.56,10,1,Mandalay,2.72,4138.06,35,3188.62,2023,8
+B,Home and lifestyle,3,489.55,Male,Member,Ewallet,9.56,18,1,Naypyitaw,2.72,4138.06,35,3188.62,2022,4

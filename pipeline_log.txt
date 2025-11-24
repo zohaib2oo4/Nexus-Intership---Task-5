@@ -1,0 +1,24 @@
+[2025-11-24T14:15:08] No CSV files found in data/ folder. Place your CSV(s) there and rerun.
+[2025-11-24T14:17:09] Training CSV: Mart_sales.csv
+[2025-11-24T14:17:09] No additional CSV files found. The pipeline will train and evaluate on the training CSV only.
+[2025-11-24T14:17:09] ERROR: Training CSV is missing required columns: ['Date', 'Sales', 'Unit price', 'Tax 5%', 'cogs', 'gross income', 'Rating', 'Branch', 'Customer type', 'Gender', 'Product line', 'Payment']
+[2025-11-24T14:23:13] Training CSV: SuperMarket Analysis.csv
+[2025-11-24T14:23:13] No additional CSVs found. Will train and evaluate on training CSV only.
+[2025-11-24T14:23:13] Training rows: 800, holdout rows: 200
+[2025-11-24T14:23:13] FATAL: OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+[2025-11-24T14:28:48] Training CSV: SuperMarket Analysis.csv
+[2025-11-24T14:28:48] No additional CSVs found. Will train and evaluate on training CSV only.
+[2025-11-24T14:28:48] Training rows: 800, holdout rows: 200
+[2025-11-24T14:28:48] Fitting pipeline...
+[2025-11-24T14:28:48] FATAL: All estimators should implement fit and transform, or can be 'drop' or 'passthrough' specifiers. 'Pipeline(steps=[('imputer', SimpleImputer(strategy='most_frequent')),
+                OneHotEncoder(handle_unknown='ignore', sparse_output=False)])' (type <class 'sklearn.pipeline.Pipeline'>) doesn't.
+[2025-11-24T14:31:59] Training CSV: SuperMarket Analysis.csv
+[2025-11-24T14:31:59] No additional CSVs found. Will train and evaluate on training CSV only.
+[2025-11-24T14:32:00] Training rows: 800, holdout rows: 200
+[2025-11-24T14:32:00] Fitting pipeline...
+[2025-11-24T14:32:00] Predicting on holdout...
+[2025-11-24T14:32:00] Saved pipeline to C:\Users\NOOR\OneDrive\Desktop\NEXUS INTERN\TASK 5\models\pipeline_model_20251124_143200.joblib
+[2025-11-24T14:32:00] Saved evaluation output to C:\Users\NOOR\OneDrive\Desktop\NEXUS INTERN\TASK 5\outputs\eval_20251124_143200.json
+
+SUMMARY: {"run_time": "20251124_143200", "model": "C:\\Users\\NOOR\\OneDrive\\Desktop\\NEXUS INTERN\\TASK 5\\models\\pipeline_model_20251124_143200.joblib", "train_csv": "SuperMarket Analysis.csv", "holdout": {"MAE": 0.9337786500000367, "MSE": 2.893245305513525, "RMSE": 1.7009542338092243, "R2": 0.999951164703588}}
+[2025-11-24T14:32:00] Pipeline run completed successfully.
